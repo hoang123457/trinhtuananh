@@ -40,7 +40,7 @@ const texts = [
   "2",
   "1",
   "🎂",
-  "25.07.2008", 
+  "27.07.2008", 
   "17 tuổi đẹp nhất thanh xuân",//Day of birth
   "HAPPY BIRTHDAY", 
   "Trịnh Tuấn Anh",
