@@ -40,17 +40,10 @@ const texts = [
   "2",
   "1",
   "🎂",
-  "27.07.2008", 
-  "17 tuổi đẹp nhất thanh xuân",//Day of birth
-  "HAPPY BIRTHDAY", 
-  "Trịnh Tuấn Anh",
-  "Chúc mừng sinh nhật bạn nhá",
-  "Dù chúng ta ở xa nhau",
-  "Nhưng bạn mãi là người bạn đặc biệt",
-  "Và có thể là quan trọng đối với tớ",
-  "Người bạn mà tớ không thể xa được",
-  "Sinh Nhật Vui Vẻ Nhé",
-  "Trịnh Tuấn Anh",
+  "HAPPY",
+  "BIRTHDAY"
+  "TO"
+  "ME"
   "❤️🌼❤️"
 ];
 
