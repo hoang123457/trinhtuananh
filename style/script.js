@@ -41,9 +41,9 @@ const texts = [
   "1",
   "🎂",
   "HAPPY",
-  "BIRTHDAY"
-  "TO"
-  "ME"
+  "BIRTHDAY",
+  "TO",
+  "ME",
   "❤️🌼❤️"
 ];
 
